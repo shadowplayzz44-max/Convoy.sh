@@ -11,4 +11,4 @@ No manual setup required — everything auto configured 🚀
 Run this in your VPS terminal:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/shadowplayzz44-max/Convoy.sh/main/Install.sh)
+bash <(curl -s https://raw.githubusercontent.com/shadowplayzz44-max/Convoy.sh/main/Convoy.sh)
